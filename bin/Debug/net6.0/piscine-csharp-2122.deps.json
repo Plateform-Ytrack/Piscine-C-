@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "piscine-csharp-2122/1.0.0": {
+        "runtime": {
+          "piscine-csharp-2122.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "piscine-csharp-2122/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

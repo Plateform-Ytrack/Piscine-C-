@@ -1,0 +1,5 @@
+C:\Users\malol\Desktop\Malo Loyer Viaud\Code\Git\piscine-csharp-2122\obj\Debug\net5.0\piscine-csharp-2122.csproj.AssemblyReference.cache
+C:\Users\malol\Desktop\Malo Loyer Viaud\Code\Git\piscine-csharp-2122\obj\Debug\net5.0\piscine-csharp-2122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malol\Desktop\Malo Loyer Viaud\Code\Git\piscine-csharp-2122\obj\Debug\net5.0\piscine-csharp-2122.AssemblyInfoInputs.cache
+C:\Users\malol\Desktop\Malo Loyer Viaud\Code\Git\piscine-csharp-2122\obj\Debug\net5.0\piscine-csharp-2122.AssemblyInfo.cs
+C:\Users\malol\Desktop\Malo Loyer Viaud\Code\Git\piscine-csharp-2122\obj\Debug\net5.0\piscine-csharp-2122.csproj.CoreCompileInputs.cache
